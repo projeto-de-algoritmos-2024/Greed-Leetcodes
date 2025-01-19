@@ -22,7 +22,7 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 | Nome                                                                                                                                                  | Nível   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)   | Difícil |
-|  | Dificil |
+| [135. Candy](https://leetcode.com/problems/candy/description/?envType=problem-list-v2&envId=greedy) | Dificil |
 |  |  |
 
 ## Video
@@ -36,11 +36,11 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
  **Caso 1:**
 
 
-![](assets/Course_Schedule1.png)
+ ![](assets/Course_Schedule1.png)
 
  **Caso 2:**
 
-![](assets/Course_Schedule2.png)
+ ![](assets/Course_Schedule2.png)
 
 
  **Cso 3:**
@@ -49,15 +49,16 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 ## Screenshots
 
-### Prox-question
+### [135. Candy](https://leetcode.com/problems/candy/description/?envType=problem-list-v2&envId=greedy)
 
  **Caso 1:**
 
-
+ ![](assets/candy1.png)
 
 
  **Caso 2:**
 
+ ![](assets/candy2.png)
 
 ## Screenshots
 
@@ -69,10 +70,7 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
  **Caso 2:**
 
-
-**Caso 3:**
-
-
+    
 
 
 
