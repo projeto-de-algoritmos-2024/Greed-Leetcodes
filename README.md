@@ -23,7 +23,7 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)   | Difícil |
 | [135. Candy](https://leetcode.com/problems/candy/description/?envType=problem-list-v2&envId=greedy) | Dificil |
-|  |  |
+| [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?utm_source=chatgpt.com) | Medio |
 
 ## Video
 
@@ -61,17 +61,17 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
  ![](assets/candy2.png)
 
 ## Screenshots
-
-###  Prox-question
+    
+### [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?utm_source=chatgpt.com)
 
  **Caso 1:**
 
+ ![](assets/MinCosttoConnectAllPoints1.png)
 
 
  **Caso 2:**
 
-    
-
+ ![](assets/MinCosttoConnectAllPoints2.png)
 
 
 ## Uso
