@@ -18,3 +18,4 @@ class Solution:
         
         # O número mínimo total de doces é a soma do array candies
         return sum(candies)
+ 
